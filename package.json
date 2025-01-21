@@ -1,0 +1,17 @@
+{
+  "name": "vanillajs-movie-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-js": "^2.13.3",
+    "parcel": "^2.13.3"
+  }
+}
